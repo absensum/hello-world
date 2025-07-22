@@ -1,11 +1,11 @@
 print("Hello World!")
-print("My name is Monika Łabędzka")
+print("My name is Monika Ł")
 born = 1990
-current = 2021
+current = 2025
 age = current - born
 print("Age:", age)
 
-hobby = ["photography", "psychology in technology", "traveling", "cats", "books", "pc games"]
+hobby = ["photography", "psychology in technology", "traveling", "cats", "books", "video games"]
 hobby.sort()
 hobby.append("VR")
 hobby.append("AI")
@@ -20,7 +20,7 @@ print(favourite_colors)
 print("I'm from:")
 print("City: Wroclaw", "Voivodeship: Dolnyslask", "Country: Poland", "Continent: Europe")
 
-technologies = ["HTML", "CSS", "Word", "Excel", "Powerpoint", "Python", "Photoshop", "Windows"]
+technologies = ["HTML", "CSS", "Word", "Excel", "Powerpoint", "Python", "Photoshop", "Windows", "Canva"]
 print("Technologies:")
 print(technologies)
 
